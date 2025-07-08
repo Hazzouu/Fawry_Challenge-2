@@ -119,3 +119,5 @@ The system handles various error scenarios:
 - **Polymorphism**: Different book types handled uniformly
 - **Exception Handling**: Robust error management
 - **Separation of Concerns**: Inventory management separate from book types
+
+![image](https://github.com/user-attachments/assets/099b3abf-b535-46f4-9616-eb28ce7fb0de)
